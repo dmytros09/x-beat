@@ -31,12 +31,6 @@ State management using Context API.
 
 <br/>
 
-## Author:
-
-- **Gulshan Songara** - **[Portfolio Website](https://gulshansongara.netlify.app)**, **[Linkedin](https://www.linkedin.com/in/gulshan-songara/)**
-
-<br/>
-
 ## Available Scripts:
 
 #### `npm start`
@@ -51,4 +45,4 @@ State management using Context API.
 
 ## License:
 
-This project is licensed under the  **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
+This project is licensed under the **GPL-3.0 License** - see the [LICENSE](LICENSE.md) file for details.
